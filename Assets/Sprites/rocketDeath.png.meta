@@ -23,6 +23,9 @@ TextureImporter:
   - first:
       213: 6626131750895388081
     second: rocketDeath_6
+  - first:
+      213: 1117097789660854048
+    second: rocketDeath_7
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -254,6 +257,27 @@ TextureImporter:
       bones: []
       spriteID: 1b58e0f78bfb4fb50800000000000000
       internalID: 6626131750895388081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocketDeath_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027fb14658ab08f00800000000000000
+      internalID: 1117097789660854048
       vertices: []
       indices: 
       edges: []
