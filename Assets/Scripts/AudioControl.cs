@@ -7,11 +7,6 @@ public class AudioControl : MonoBehaviour
     public AudioSource intro, ghostNormal;
     // Start is called before the first frame update
 
-    void Awake()
-    {
-
-    }
-
     void Start()
     {
         intro.Play();
