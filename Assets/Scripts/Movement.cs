@@ -18,7 +18,7 @@ public class Movement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-          if(Vector3.Equals(item.transform.position, new Vector3(-12.5f, 13.5f, 0.0f)))
+          /*if(Vector3.Equals(item.transform.position, new Vector3(-12.5f, 13.5f, 0.0f)))
           {
               animatorController.ResetTrigger("Triggerrrr");
               animatorController.SetTrigger("Trigger");
@@ -44,6 +44,6 @@ public class Movement : MonoBehaviour
               animatorController.ResetTrigger("Triggerrr");
               animatorController.SetTrigger("Triggerrrr");
               tweener.AddTween(item.transform, item.transform.position, new Vector3(-12.5f, 13.5f, 0.0f), 1.5f);
-            }
+          }*/
     }
 }
